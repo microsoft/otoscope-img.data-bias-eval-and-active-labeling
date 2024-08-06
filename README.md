@@ -1,7 +1,7 @@
-# Bias and opportunities of AI-based algorithms for middle ear disease diagnosis: a multi-center study
+# Towards Reliable AI: Bias Identification, Prevention and Quality Improvement in Otoscopic Images
 
 # Introduction 
-This README describes how to reproduce results for the paper "Bias and opportunities of AI-based algorithms for middle ear disease diagnosis: a multi-center study". 
+This README describes how to reproduce results for the paper "Towards Reliable AI: Bias Identification, Prevention and Quality Improvement in Otoscopic Images". 
 
 # Data Preparation
 1. Download all the three public datasets. 
