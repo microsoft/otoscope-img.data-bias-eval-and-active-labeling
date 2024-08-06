@@ -140,7 +140,7 @@ terminado @ file:///work/ci_py311/terminado_1677696151350/work
 threadpoolctl @ file:///Users/ktietz/demo/mc3/conda-bld/threadpoolctl_1629802263681/work
 tifffile @ file:///croot/tifffile_1695107451082/work
 tinycss2 @ file:///work/ci_py311/tinycss2_1676823757641/work
-torch==2.0.1
+torch==2.2.0
 torchmetrics==0.11.4
 torchvision==0.15.2
 tornado @ file:///croot/tornado_1696936946304/work
