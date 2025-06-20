@@ -1,7 +1,7 @@
 # Towards Reliable AI: Bias Identification, Prevention and Quality Improvement in Otoscopic Images
 
 # Introduction 
-This README describes how to reproduce results for the paper "Towards Reliable AI: Bias Identification, Prevention and Quality Improvement in Otoscopic Images". 
+This README describes how to reproduce results for the paper "Towards reliable use of artificial intelligence to classify otitis media using otoscopic images: Addressing bias and improving data quality". 
 
 # Data Preparation
 1. Download all the three public datasets. 
@@ -126,5 +126,4 @@ Note that the feature embeddings were extracted from models stored in `data_bias
 cd data_bias_evaluation_framework/train_model
 python run_binary_classification_cv.py  --model_name 'vit_b_16_384' --num_epoch 100  --cudaID 0  --elastic_tf --lr 0.01
 ```
-# Active Labeling
-This part of the paper was based on a private dataset. To prepare your own dataset, use `/active_labeling/prepare_dataset/prepare_hierch_dataset.py`. The multitask model is available at `/active_labeling/models/models_hierch.py`. We used the function train_model_multitask in `/active_labeling/train_model/train_model.py` to train the multitask model. 
+
