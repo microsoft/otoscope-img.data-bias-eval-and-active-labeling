@@ -1,4 +1,4 @@
-# Towards Reliable AI: Bias Identification, Prevention and Quality Improvement in Otoscopic Images
+# Towards reliable use of artificial intelligence to classify otitis media using otoscopic images: Addressing bias and improving data quality
 
 # Introduction 
 This README describes how to reproduce results for the paper "Towards reliable use of artificial intelligence to classify otitis media using otoscopic images: Addressing bias and improving data quality". 
