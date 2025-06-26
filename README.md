@@ -9,7 +9,7 @@ This README describes how to reproduce results for the paper "Towards reliable u
         - Viscaino, Michelle, et al. "Computer-aided diagnosis of external and middle ear conditions: A machine learning approach." Plos one 15.3 (2020): e0229226.
     - The Ohio dataset: https://zenodo.org/records/4558155#.YXYYyC8Ro6U
         - Camalan, Seda, et al. "OtoMatch: Content-based eardrum image retrieval using deep learning." Plos one 15.5 (2020): e0232776.
-    - The Turkey dataset: The original data link is currently inaccessible. For data access, please reach out to the author of the paper.
+    - The Türkiye dataset: The original data link is currently inaccessible. For data access, please reach out to the author of the paper.
         - Zafer, Cömert. "Fusing fine-tuned deep features for recognizing different tympanic membranes." Biocybernetics and Biomedical Engineering 40.1 (2020): 40-51.
   
 2. Rename their folder names as 'Chile',  'Ohio', and 'Turkey', respectively. 
